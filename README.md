@@ -7,5 +7,4 @@ so i did not build every thing from scratch, i just fixed the AMS issues, but yo
 2- then you use my program to convert the output of Alchemist file then you are done.
 load it to your triton without spending hours fixing AMS one by one 
 i hope it is something useful
-1- convert your Trinity PCG to Triton PCG via Alchemist.
-2- then use the output of the Alchemist, run the program load then fix, that's it.
+
